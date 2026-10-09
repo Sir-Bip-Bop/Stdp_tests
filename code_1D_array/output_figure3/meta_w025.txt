@@ -1,0 +1,9 @@
+neuronA=0
+neuronB=1
+weight=0.25
+delayAB=1
+sigmaSTDP=100
+amplitudeSTDP=10000
+Tend=1000000
+nSpikesA=84
+nSpikesB=175
